@@ -188,12 +188,12 @@ button.button:hover {
 	color: #333;
 }
 .multiple_addresses .button.btn-update:hover {
-	background-color: #C2A476;
+	background-color: #2634b4;
 	color: #fff;
 }
 /* 2-Add to cart button */
 .product-view .product-shop .add-to-box .btn-cart {
-	background: #C2A476;
+	background: #2634b4;
 	color: #fff;
 }
 .product-view .product-shop .add-to-box .btn-cart:hover {
@@ -1829,7 +1829,7 @@ ul.level1 {
 	font-family: 'Simple-Line-Icons';
 	font-size: 20px;
 	font-style: normal;
-	color: #dda34a;
+	color: #4a54dd;
 }
 .icon-share-alt:before {
 	content: "\e05a";
@@ -1907,11 +1907,11 @@ ul.level1 {
 
 }
 
-.red_bg{background:#d3523d}
-.yellow_bg{background:#f9f6ef; color:#dda34a}
-.brown_bg{background:#e38f39}
+.red_bg{background:#3d58d3}
+.yellow_bg{background:#f0eff9; color:#4a54dd}
+.brown_bg{background:#3c39e3}
 
-.our-features-box .yellow_bg h3 {color:#dda34a}
+.our-features-box .yellow_bg h3 {color:#4a54dd}
 
 /* 6. Top Banner Section */
 .top-banner-section {
@@ -1928,7 +1928,7 @@ ul.level1 {
 	display: inline-block;
 	position: relative;
 	font-size: 20px;
-	color: #C2A476;
+	color: #767ec2;
 	text-align: center;
 	height: 16px;
 	width: 90px;
@@ -1943,7 +1943,7 @@ ul.level1 {
 	font-family: 'Raleway', sans-serif;
 	letter-spacing: 5px;
     text-transform: uppercase;
-    color: #d04e2e;
+    color: #392ed0;
 	font-size:12px;
 	margin-top:20px;
 	font-weight:700;
@@ -2144,11 +2144,11 @@ ul.level1 {
 	font-size: 13px;
 	text-transform: uppercase;
 	font-weight: bold;
-	color: #fff;
+	color: #0f20be;
 	letter-spacing: 1px;
 	display: inline-block;
 	margin-top: 35px;
-	background: #C2A476
+	background: #ffffff
 }
 .offer-slider a.shop-now:after {
 	content: '\f0da';
@@ -2160,7 +2160,7 @@ ul.level1 {
 }
 .offer-slider a.shop-now:hover {
 	color: #fff;
-	background-color: #C2A476;
+	background-color: #0f20be;
 }
 
 .offer-slider a.shop-now:hover:after { color:#fff}
@@ -3367,7 +3367,7 @@ color: #000;
 	text-align: center;
 	left: 50%;
 	top: 50%;
-	background: #C2A476;
+	background: #0b16b4;
 	margin-left: -380px;
 	height: 250px;
 	padding: 25px 20px;
@@ -7269,14 +7269,14 @@ button.button.submit:before {
 	text-decoration: none;
 	width: 45px;
 	background: url(../images/to-top-arrow.png) no-repeat center;
-	background-color: #C2A476;
+	background-color: blue;
 	text-transform: uppercase;
 	z-index: 1000;
 	border-radius: 2px;
 }
 #toTop:hover {
 	color: #fff;
-	background-color: #C2A476;
+	background-color: #003169;
 }
 /* FAQ */
 .accordion-faq {
@@ -7367,7 +7367,7 @@ button.subscribe:before {
 	border-radius: 0px;
 	color: #fff;
 	border:none;
-	background: #C2A476;
+	background: blue;
 	text-transform:uppercase
 }
 .newsletter-wrap button.subscribe:hover {
